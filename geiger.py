@@ -51,7 +51,7 @@ fname = "/home/pi/geiger.csv"
 
 ser = serial.Serial('/dev/ttyAMA0', baudrate=9600)
 
-# initialize scrollphat or scrollphatd
+# initialize scrollphathd or scrollphat
 
 if (HD):
     scrollphathd.set_brightness(0.2)
