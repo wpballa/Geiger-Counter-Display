@@ -13,7 +13,7 @@
 #
 # Software setup, after update/upgrade
 # sudo apt-get install python3-pip (if using Stretch lite)
-# pip3 install pySerial
+# sudo pip3 install pySerial
 #
 # for older 5x11 Pimoroni Scroll pHat version
 # sudo apt-get install python3-scrollphat
