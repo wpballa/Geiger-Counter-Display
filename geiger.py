@@ -13,12 +13,12 @@
 #
 # Software setup, after update/upgrade
 # sudo apt-get install python3-pip (if using Stretch lite)
-# sudo pip3 install pySerial
+# sudo pip3 install pySerial flask
 #
 # for older 5x11 Pimoroni Scroll pHat version
 # sudo apt-get install python3-scrollphat
 #
-# or for newer HD version
+# or for newer HD version, also needs the flask installation
 # sudo apt-get install python3-scrollphathd
 #
 # set this line according to your version of the scroll pHat
